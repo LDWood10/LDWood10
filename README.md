@@ -1,6 +1,7 @@
-### Hi, I'm Lesli👋 💻
 
 <img src="https://github.com/LDWood10/LDWood10/blob/main/cover.png">
+
+### Hi, I'm Lesli👋 💻
 
 🌱 I'm currently learning JavaScript
 
