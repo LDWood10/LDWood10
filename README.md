@@ -8,7 +8,7 @@ I'm a fullstack software engineer with a background in science.
 
 🌱 Software Engineer @100Devs
 
-📫 How to reach me: 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDWood10&show_icons=true&theme=cobalt)
 
