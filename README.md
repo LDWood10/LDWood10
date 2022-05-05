@@ -1,6 +1,9 @@
-### Hi, I'm Lesli👋
+### Hi, I'm Lesli👋 💻
 
 <img src="https://github.com/LDWood10/LDWood10/blob/main/cover.png">
+
+🌱 I'm currently learning JavaScript
+
 <!--
 **LDWood10/LDWood10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
