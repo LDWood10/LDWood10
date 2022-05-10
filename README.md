@@ -3,14 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&vCenter=true&lines=software+engineer;coffee+enthusiast)](https://git.io/typing-svg)
 
-### Hi, I'm Lesli👋 💻
+### Hi, I'm Lesli!👋 💻
 
-I'm a fullstack software engineer with a background in science. 
+I'm a fullstack software engineer with a background in science. I have a passion for building beautiful, responsive websites. 
 
 
-🔭 Software Engineer @100Devs
+- 🔭 Software Engineer @100Devs
 
-🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript
 
 
 
