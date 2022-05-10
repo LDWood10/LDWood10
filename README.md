@@ -9,6 +9,7 @@ I'm a fullstack software engineer with a background in science.
 
 
 🔭 Software Engineer @100Devs
+
 🌱 I’m currently learning JavaScript
 
 
