@@ -1,8 +1,7 @@
 
 <img src="https://github.com/LDWood10/LDWood10/blob/main/cover.png">
 
-<p align = "center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&lines=software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&center=true&lines=software+engineer)](https://git.io/typing-svg)
 
 ### Hi, I'm Lesli👋 💻
 
