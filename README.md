@@ -1,5 +1,5 @@
 
-<img src="https://github.com/LDWood10/LDWood10/blob/main/cover.png" height= "200">
+<img src="https://github.com/LDWood10/LDWood10/blob/main/cover.png" height= "200" width = "auto">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&vCenter=true&lines=software+engineer;coffee+enthusiast;a+not+so+crazy+cat+lady)](https://git.io/typing-svg)
 
