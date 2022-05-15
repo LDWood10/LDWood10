@@ -26,6 +26,33 @@ I'm a fullstack software engineer with a background in science. I have a passion
 
 </section>
 
+<!-- <table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+        <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
+            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley2-"FlappyBug"</a>
+      <br />
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Matching Card Game</a>
+        <br />
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
+        </a>
+    </td>
+  </tr>
+</table> -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lwood105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lwood105" height="30" width="40" /></a>
