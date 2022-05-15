@@ -32,14 +32,14 @@ I'm a fullstack software engineer with a background in science. I have a passion
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a>Portfolio</a>
+<a align="center">Portfolio</a>
         <br />
       <a target="_blank" href="">
             <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="">Quote Api"</a>
+<a align="center">Quote Api</a>
       <br />
         <a target="_blank" href="">
           <img src="https://github.com/LDWood10/LDWood10/blob/main/quoteapi.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
