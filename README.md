@@ -32,8 +32,8 @@ I'm a fullstack software engineer with a background in science. I have a passion
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a align="center">Portfolio</a>
-        <br />
+<a>Portfolio</a>
+        <br/>
       <a target="_blank" href="">
             <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
         </a>
