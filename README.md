@@ -26,8 +26,8 @@ I'm a fullstack software engineer with a background in science. I have a passion
 
 </section>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/lwood105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lwood105" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lesli-wood-8b7756101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lesli-wood-8b7756101" height="30" width="40" /></a>
 </p>
