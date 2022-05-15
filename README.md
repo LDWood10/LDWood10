@@ -28,32 +28,25 @@ I'm a fullstack software engineer with a background in science. I have a passion
 
 ## Projects
 
-<!-- <table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4">Portfolio</a>
+<a target="_blank" href="">Portfolio</a>
         <br />
-      <a target="_blank" href="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4">
+      <a target="_blank" href="">
             <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley2-"FlappyBug"</a>
+<a target="_blank" href="">Quote Api"</a>
       <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Matching Card Game</a>
-        <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
+        <a target="_blank" href="">
+          <img src="https://github.com/LDWood10/LDWood10/blob/main/quoteapi.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
         </a>
     </td>
   </tr>
-</table>  -->
+</table>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
