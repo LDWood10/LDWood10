@@ -26,14 +26,16 @@ I'm a fullstack software engineer with a background in science. I have a passion
 
 </section>
 
-<!-- <table bordercolor="#66b2b2">
+## Projects
+
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
 <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
         <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
-            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
+            <img src="portfolio.mp4" width="100%"  alt="portfolio"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
@@ -51,7 +53,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
         </a>
     </td>
   </tr>
-</table> -->
+</table> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
