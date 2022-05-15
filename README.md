@@ -1,9 +1,9 @@
 
 <img src="https://github.com/LDWood10/LDWood10/blob/main/coverbanner.png">
 
-<p align="center"
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&vCenter=true&lines=software+engineer;coffee+enthusiast;a+not+so+crazy+cat+lady)](https://git.io/typing-svg)>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&vCenter=true&lines=software+engineer;coffee+enthusiast;a+not+so+crazy+cat+lady)](https://git.io/typing-svg)
+
 
 ### Hi, I'm Lesli!👋 💻
 
@@ -15,10 +15,8 @@ I'm a fullstack software engineer with a background in science. I have a passion
 - 🌱 I’m currently learning JavaScript
 
 
-<p align="center"
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDWood10&show_icons=true&theme=cobalt)>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDWood10&show_icons=true&theme=cobalt)
             
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
