@@ -32,7 +32,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-       <h3>Portfolio</h3>
+       <h4 align="center">Portfolio</h4>
         <br/>
       <a>
             <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
