@@ -32,10 +32,10 @@ I'm a fullstack software engineer with a background in science. I have a passion
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+<a target="_blank" href="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4">Portfolio</a>
         <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
-            <img src="portfolio.mp4" width="100%"  alt="portfolio"/>
+      <a target="_blank" href="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4">
+            <img src="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4" width="100%"  alt="portfolio"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
