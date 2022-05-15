@@ -39,7 +39,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a align="center">Quote Api</a>
+<h4 align="center">Quote Api</h4>
       <br />
         <a>
           <img src="https://github.com/LDWood10/LDWood10/blob/main/quoteapi.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
