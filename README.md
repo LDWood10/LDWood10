@@ -5,6 +5,7 @@
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&vCenter=true&lines=software+engineer;coffee+enthusiast;a+not+so+crazy+cat+lady)](https://git.io/typing-svg)
 
+</section>
 
 ### Hi, I'm Lesli!👋 💻
 
@@ -15,7 +16,8 @@ I'm a fullstack software engineer with a background in science. I have a passion
 
 - 🌱 I’m currently learning JavaScript
 
-
+<section align="center>
+                
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDWood10&show_icons=true&theme=cobalt)
             
 </section>
