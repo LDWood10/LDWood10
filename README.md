@@ -35,7 +35,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
 <a target="_blank" href="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4">Portfolio</a>
         <br />
       <a target="_blank" href="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4">
-            <img src="https://github.com/LDWood10/LDWood10/blob/main/portfolio.mp4" width="100%"  alt="portfolio"/>
+            <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
