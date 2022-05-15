@@ -28,7 +28,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
 
 ## Projects
 
-<table bordercolor="#66b2b2">
+<!-- <table bordercolor="#66b2b2">
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
@@ -53,7 +53,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
         </a>
     </td>
   </tr>
-</table> 
+</table>  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
