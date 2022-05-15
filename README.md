@@ -15,9 +15,9 @@ I'm a fullstack software engineer with a background in science. I have a passion
 - 🌱 I’m currently learning JavaScript
 
 
-<p align="center">
+<p align="center"
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDWood10&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDWood10&show_icons=true&theme=cobalt)>
 
 </p>
 
