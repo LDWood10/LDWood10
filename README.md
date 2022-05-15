@@ -1,7 +1,9 @@
 
 <img src="https://github.com/LDWood10/LDWood10/blob/main/coverbanner.png">
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFEFE&vCenter=true&lines=software+engineer;coffee+enthusiast;a+not+so+crazy+cat+lady)](https://git.io/typing-svg)
+</p>
 
 ### Hi, I'm Lesli!👋 💻
 
@@ -19,7 +21,7 @@ I'm a fullstack software engineer with a background in science. I have a passion
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/lwood105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lwood105" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lesli-wood-8b7756101/" target="blank"><img align="center" src="https://www.linkedin.com/in/lesli-wood-8b7756101/" alt="https://www.linkedin.com/in/lesli-wood-8b7756101/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lesli-wood-8b7756101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lesli-wood-8b7756101/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
