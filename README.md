@@ -7,6 +7,8 @@
 
 </section>
 
+<section>
+
 ### Hi, I'm Lesli!👋 💻
 
 I'm a fullstack software engineer with a background in science. I have a passion for building beautiful, responsive websites. 
@@ -15,6 +17,8 @@ I'm a fullstack software engineer with a background in science. I have a passion
 - 🔭 Software Engineer @100Devs
 
 - 🌱 I’m currently learning JavaScript
+   
+</section>
 
 <section align="center">
                 
