@@ -1,7 +1,7 @@
 
 <img src="https://github.com/LDWood10/LDWood10/blob/main/coverbanner.png">
 
-<section align="center">
+<section>
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFE1FC&vCenter=true&lines=software+engineer;coffee+enthusiast;a+not+so+crazy+cat+lady)](https://git.io/typing-svg)
 
